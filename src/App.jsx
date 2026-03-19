@@ -51,7 +51,7 @@ function App() {
        {/* <UseStateHook1 /> */}
        {/* <OnChange /> */}
 
-       {/* <ColorPicker /> */}
+       <ColorPicker />
 
        {/* <UseStateObjectUpdate /> */}
        {/* <UseStateListUpdate /> */}
@@ -59,7 +59,7 @@ function App() {
        {/* <To_Do_List /> */}
        {/* <UseEffect /> */}
        {/* <UseEffect2 /> */}
-       <DigitalClock />
+       {/* <DigitalClock /> */}
        {/* <APIConn /> */}
       
     </>
