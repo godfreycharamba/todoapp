@@ -56,10 +56,10 @@ function App() {
        {/* <UseStateObjectUpdate /> */}
        {/* <UseStateListUpdate /> */}
        {/* <UseStateArrayObAdd /> */}
-       <To_Do_List />
+       {/* <To_Do_List /> */}
        {/* <UseEffect /> */}
        {/* <UseEffect2 /> */}
-       {/* <DigitalClock /> */}
+       <DigitalClock />
        {/* <APIConn /> */}
       
     </>
